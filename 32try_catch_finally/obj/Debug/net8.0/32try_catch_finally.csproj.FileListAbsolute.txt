@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\bin\Debug\net8.0\32try_catch_finally.exe
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\bin\Debug\net8.0\32try_catch_finally.deps.json
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\bin\Debug\net8.0\32try_catch_finally.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\bin\Debug\net8.0\32try_catch_finally.dll
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\bin\Debug\net8.0\32try_catch_finally.pdb
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.dll
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\refint\32try_catch_finally.dll
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.pdb
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\32try_catch_finally.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\32try_catch_finally\obj\Debug\net8.0\ref\32try_catch_finally.dll

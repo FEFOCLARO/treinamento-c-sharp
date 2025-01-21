@@ -1,0 +1,28 @@
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.exe
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.deps.json
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.runtimeconfig.json
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.pdb
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\refint\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.pdb
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\ref\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.exe
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.deps.json
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.runtimeconfig.json
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\bin\Debug\net8.0\24exercicios_04.pdb
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\refint\24exercicios_04.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.pdb
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\24exercicios_04.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\24exercicios_04\obj\Debug\net8.0\ref\24exercicios_04.dll

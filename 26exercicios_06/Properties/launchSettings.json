@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "26exercicios_06": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

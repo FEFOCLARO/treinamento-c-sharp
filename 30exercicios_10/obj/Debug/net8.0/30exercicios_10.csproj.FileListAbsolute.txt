@@ -1,0 +1,4 @@
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\30exercicios_10\obj\Debug\net8.0\30exercicios_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\30exercicios_10\obj\Debug\net8.0\30exercicios_10.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\30exercicios_10\obj\Debug\net8.0\30exercicios_10.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\30exercicios_10\obj\Debug\net8.0\30exercicios_10.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\bin\Debug\net8.0\25exercicios_05.exe
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\bin\Debug\net8.0\25exercicios_05.deps.json
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\bin\Debug\net8.0\25exercicios_05.runtimeconfig.json
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\bin\Debug\net8.0\25exercicios_05.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\bin\Debug\net8.0\25exercicios_05.pdb
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\refint\25exercicios_05.dll
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.pdb
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\25exercicios_05.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Desktop\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\25exercicios_05\obj\Debug\net8.0\ref\25exercicios_05.dll
