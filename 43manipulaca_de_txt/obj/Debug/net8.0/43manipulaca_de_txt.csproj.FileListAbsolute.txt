@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\bin\Debug\net8.0\43manipulaca_de_txt.exe
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\bin\Debug\net8.0\43manipulaca_de_txt.deps.json
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\bin\Debug\net8.0\43manipulaca_de_txt.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\bin\Debug\net8.0\43manipulaca_de_txt.dll
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\bin\Debug\net8.0\43manipulaca_de_txt.pdb
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.sourcelink.json
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.dll
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\refint\43manipulaca_de_txt.dll
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.pdb
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\43manipulaca_de_txt.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Ralf Lima\Ralf Lima C Sharp-20241127T180912Z-001\Ralf Lima C Sharp\43manipulaca_de_txt\obj\Debug\net8.0\ref\43manipulaca_de_txt.dll

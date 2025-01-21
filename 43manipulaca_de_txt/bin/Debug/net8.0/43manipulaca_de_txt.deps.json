@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "43manipulaca_de_txt/1.0.0": {
+        "runtime": {
+          "43manipulaca_de_txt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "43manipulaca_de_txt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
